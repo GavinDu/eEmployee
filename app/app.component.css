@@ -1,0 +1,75 @@
+h5{
+    color: red;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.Boarder{
+    border-bottom: 1px solid rgba(175, 175, 175, 1)
+}
+
+section{
+    margin-top: 10px;
+}
+
+#ideas .left .card-box{
+    border: 3px solid rgba(55, 151, 163, 1)
+}
+
+#ideas .right .card-box{
+    border: 3px solid rgba(241, 116, 36, 1)
+}
+
+#ideas .card-box{
+    min-height: 125px;
+    margin-top: 10px;
+}
+
+#ideas .card-box h3{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 150px;
+    font: normal normal normal 18px/1.3em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif
+}
+
+#ideas .question{
+    font-family: cursive;
+    font-size: 7rem;
+    color: #EB0540;
+    margin-bottom: 2rem;
+}
+
+#ideas .middle img{
+    position: absolute;
+    top: 4rem;
+    left: 10rem;
+}
+
+#architecture .text-center{
+    position: relative;
+}
+
+#architecture .img-text{
+    position: absolute;
+    top: 8rem;
+    left: 24rem;
+}
+
+#architecture p{
+    width: 15rem;
+    color: white;
+    font-family: fantasy;
+    font-size: 14px;
+}
+
+.slogan{
+    font: normal normal normal 28px/1.2em 'eb garamond',serif;
+    color: #000;
+}
+
+footer {
+    border-top: 1px solid rgba(175, 175, 175, 1)
+}

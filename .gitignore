@@ -1,0 +1,6 @@
+#node folder
+node_modules/
+
+#typescript complied files
+app/*.js
+app/*.map
